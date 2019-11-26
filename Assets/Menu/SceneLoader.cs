@@ -4,12 +4,14 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour {
+    
+    public void Scene()
+    {
+        SceneManager.LoadSceneAsync("NEWLAB");
 
-	// Use this for initialization
-	void Start () {
+    }
+    
 
-        SceneManager.LoadScene("NEWLAB");
-	}
 	
 
 }

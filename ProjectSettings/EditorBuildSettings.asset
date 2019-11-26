@@ -4,4 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 76f1d53f007237b4688bf8d9240fee88
+  - enabled: 1
+    path: Assets/NEWLAB.unity
+    guid: f3f3d448328d3a7459faf0c3cf75d3ad
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 4fc00606342d3004ba5e729bf51a00de
+  m_configObjects: {}
